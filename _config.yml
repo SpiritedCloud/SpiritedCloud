@@ -1,0 +1,9 @@
+# Site settings
+title: Huff's Portfolio
+author:
+  name: Stephanie Huff
+  email: huffs1008@gmail.com
+description: "A portfolio of some of Stephanie Huff's projects, done in the first semester."
+
+# Build settings
+remote_theme: jekyll/minima
